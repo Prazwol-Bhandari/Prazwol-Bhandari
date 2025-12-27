@@ -1,8 +1,3 @@
-## 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prazwol-Bhandari)](https://github.com/Prazwol-Bhandari)
-
-
 # 💫 Hi 👋, I'm Prazwol Bhandari
 ** A web developement student** 
 
