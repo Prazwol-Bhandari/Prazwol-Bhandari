@@ -3,7 +3,7 @@
 
 - 🌱 **I’m currently learning FrontEnd Developement**
 - 👯 **I’m looking to collaborate on simple frontend projects**
-- 📫 **How to reach me: bhandariprazwol10@gmail.com**
+- 📫 **How to reach me: dev.prazwol@gmail.com**
 
 
 
