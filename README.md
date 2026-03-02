@@ -1,5 +1,5 @@
 # About Me:
-I’m Prazwol, a passionate tech enthusiast focused on mastering frontend development and growing into full-stack development. Deeply interested in AI, system and cyber security .<br><br>Outside of tech, I play guitar ,flute, practice music, and work on graphic designing as creative side hustles. I aim to blend logic with creativity while continuously sharpening my skills and building meaningful projects.
+I’m Prazwol, a passionate tech enthusiast focused on mastering frontend development and growing into full-stack development. Deeply interested in AI and cyber security .<br><br>Outside of tech, I play guitar ,flute, practice music as creative side hustles. I aim to blend logic with creativity while continuously sharpening my skills and building meaningful projects.
 
 
 # Tech Stack:
